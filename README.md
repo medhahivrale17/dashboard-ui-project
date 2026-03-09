@@ -34,8 +34,10 @@ dashboard-ui-project
 ### Dashboard
 ![Dashboard](assets/images/dashboard.png)
 
+
 ### Records
 ![Records](assets/images/records.png)
 
 ## Demo Video
+https://drive.google.com/file/d/1_j01QBShsWR96WM-ooJSwnXQeCcwcT0U/view?usp=drivesdk
 
